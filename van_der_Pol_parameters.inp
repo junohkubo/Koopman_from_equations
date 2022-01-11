@@ -1,0 +1,12 @@
+# Time
+0.1
+# initial state (evaluated moment)
+2,0
+# target state
+1 1
+# parameters
+1.0 # epsilon
+0.5 # nu_{11}
+0.5 # nu_{22}
+0.0 # X_1^c
+0.0 # X_2^c
